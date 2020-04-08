@@ -2,7 +2,9 @@
 Respositorio día jueves 08.04.2020
 **Esto** es bajada
 
-(Clase jueves) 
-###probando nuevo###
-
+<ol>
+  <li>casa</li>
+  <li>árbol</li>
+  <li>perro</li>
+  </ol>
 
