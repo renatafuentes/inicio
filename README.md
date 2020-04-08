@@ -8,3 +8,7 @@ Respositorio día jueves 08.04.2020
   <li>perro</li>
   </ol>
 
+<ul>
+  <li>gato</li>
+  <li>flor</li>
+  </ul>
